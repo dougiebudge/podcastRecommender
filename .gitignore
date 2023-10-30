@@ -1,2 +1,6 @@
 desert-island-discs-episodes.csv
 synopsis_data.csv
+main.py
+scrape_data.ipynb
+GoogleNews-vectors-negative300.bin.gz
+.DS_Store
